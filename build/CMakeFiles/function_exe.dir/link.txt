@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/function_exe.dir/main.c.o  -o function_exe  libfunction_lib.a 

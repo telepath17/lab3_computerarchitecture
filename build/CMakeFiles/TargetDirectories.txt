@@ -1,0 +1,4 @@
+/home/artisoul/Desktop/Lab3ready/build/CMakeFiles/rebuild_cache.dir
+/home/artisoul/Desktop/Lab3ready/build/CMakeFiles/edit_cache.dir
+/home/artisoul/Desktop/Lab3ready/build/CMakeFiles/function_exe.dir
+/home/artisoul/Desktop/Lab3ready/build/CMakeFiles/function_lib.dir
